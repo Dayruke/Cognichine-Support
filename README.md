@@ -14,7 +14,6 @@ Visualize numerical proportions. Simple, fast number sense.
 
 ### Upcoming Projects
 
-- **Cybercruise:** Monitor your cruise over a synth landscape.
 - **Retro Pixel Camera:** Capture nostalgia with Retro Pixel Camera.
 
 Stay tuned for updates!
