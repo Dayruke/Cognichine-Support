@@ -50,7 +50,9 @@
 - Portrait orientation optimized for one-handed use.
 
 ## Support
-You can use the "Issues" tab on GitHub to search for existing questions or make suggestions. For additional support, visit our main [Cognichine Support README](https://github.com/Dayruke/Cognichine-Support).
+You can use the [Issues](https://github.com/Dayruke/Cognichine-Support/issues) tab on GitHub to search for existing questions or make suggestions.
+
+For additional support, visit our main [Cognichine Support README](https://github.com/Dayruke/Cognichine-Support).
 
 ## FAQ
 
