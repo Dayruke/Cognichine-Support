@@ -6,7 +6,7 @@ Cognichine is a micro business entity dedicated to releasing innovative, tech-dr
 
 ### Proportia
 
-[Proportia Support Page](https://github.com/Dayruke/Cognichine-Support/Proportia/Proportia.md)
+[Proportia Support Page](https://github.com/Dayruke/Cognichine-Support/blob/main/Proportia/Proportia.md)
 
 Visualize numerical proportions. Simple, fast number sense.  
 
