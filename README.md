@@ -8,15 +8,17 @@ Cognichine is a micro business entity dedicated to releasing innovative, tech-dr
 
 [Proportia Support Page](https://github.com/Dayruke/Cognichine-Support/blob/main/Proportia/Proportia.md)
 
-Visualize numerical proportions. Simple, fast number sense.  
+Visualize numerical proportions. Simple, fast number sense.
 
 <img src="Proportia/proportia-ss.png" alt="Proportia Screenshot" height="300px">
 
-### Upcoming Projects
+### Retro Pixel Camera
 
-- **Retro Pixel Camera:** Capture nostalgia with Retro Pixel Camera.
+[Retro Pixel Camera Support Page](https://github.com/Dayruke/Cognichine-Support/blob/main/Retro-Pixel-Camera/Retro-Pixel-Camera.md)
 
-Stay tuned for updates!
+Transforms your camera feed into a nostalgic pixel art style in real-time.
+
+<img src="Retro-Pixel-Camera/rpc-ss.jpg" alt="Retro Pixel Camera Screenshot" height="300px">
 
 ## About Derek Scherer
 
